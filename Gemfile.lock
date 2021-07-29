@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dead_mans_snitch (1.0.3)
+    dead_mans_snitch (1.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -35,3 +35,6 @@ DEPENDENCIES
   dead_mans_snitch!
   rspec (>= 3.0.0)
   webmock
+
+BUNDLED WITH
+   2.2.22
